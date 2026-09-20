@@ -4,13 +4,6 @@
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:🌐 Создатель этой хуйни @remiuc
 vless://fe2f87fc-f75b-4b33-a297-57c0322363d3@179.255.185.151:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usa.viralforge.ru&fp=qq&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20%F0%9F%A4%96%20Gemini
-vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@162.217.248.146:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=slfst14.ardor-cloud.ru&fp=firefox&pbk=P5iwWNdQXdXU1CRGUG6u9gxnDOl2U7uV7YcPyQg6hm0&sid=ba86eee333ed2be2#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%EF%B8%8F%20%D0%A1%D0%A8%D0%90%20
-vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@64.49.12.93:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=slfs7.ardor-cloud.ru&fp=firefox&pbk=pgC32QcmTtlI9VtIh1L96w6h3Wyr5g4JfvJ4XfrQLG0&sid=be86ddd822af1ddd#%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%EF%B8%8F%20%D0%A1%D0%A8%D0%90%20%232
-vless://a7bda20e-a1af-4b57-a102-8f4879523a8d@185.173.144.109:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pkvc-hls4.cdnvideo.ru&fp=qq&pbk=J8SR9wrUnOVg8OaQWOm2y1GyDlnISBDbDhVT9SJ41WA&sid=7ccbcb93b59845de&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%9F%A1%20TunPass
-vless://a7bda20e-a1af-4b57-a102-8f4879523a8d@185.173.144.109:443?encryption=none&type=ws&path=%2Fmp3%2Fall%2Fus%2F&host=media-us.frdmhere.com&security=tls&sni=media-us.frdmhere.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%94%B4%20TunPass
-vless://a7bda20e-a1af-4b57-a102-8f4879523a8d@185.173.144.109:443?encryption=none&type=xhttp&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22200-400%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&security=reality&sni=static.rutube.ru&fp=qq&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&sid=b00b1e5b&spx=%2F&host=usa.frdmhere.com#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%9F%A2%20TunPass
-
-
 
 
 
